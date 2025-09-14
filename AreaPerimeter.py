@@ -1,0 +1,7 @@
+sq=int(input("enter side of square : "))
+print(f"Area of Square :{sq*sq}")
+print(f"Perimeter of square : {4*sq}")
+r=float(input("Enter radius of cone : "))
+h=float(input("Enter height of cone : "))
+print(f"Volume of cone : {3.14*r*r+h*3.14*r}")
+print(f"Perimeter of cone : {2*3.14*r}")
